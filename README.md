@@ -1,2 +1,2 @@
 # Uri-Iniciante
-A repository made to store all beginner excercices from URI
+A repository created to store all beginner excercices from URI
