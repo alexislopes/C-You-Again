@@ -1,2 +1,2 @@
-# Uri-Iniciante
-A repository created to store all beginner excercices from URI
+# C You Again
+All my C study
